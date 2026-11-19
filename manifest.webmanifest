@@ -1,0 +1,18 @@
+{
+  "name": "ChordSasy — Studio Chord",
+  "short_name": "ChordSasy",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f7f6",
+  "theme_color": "#087e72",
+  "description": "Editor chord angka untuk HP",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
